@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\SiteParser\SiteParser\bin\Debug\SiteParser.exe.config
+C:\Users\PC\source\repos\SiteParser\SiteParser\bin\Debug\SiteParser.exe
+C:\Users\PC\source\repos\SiteParser\SiteParser\bin\Debug\SiteParser.pdb
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\SiteParser.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\MainWindow.g.cs
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\App.g.cs
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\SiteParser_MarkupCompile.cache
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\SiteParser_MarkupCompile.lref
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\MainWindow.baml
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\SiteParser.g.resources
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\SiteParser.Properties.Resources.resources
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\SiteParser.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\SiteParser.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\SiteParser.exe
+C:\Users\PC\source\repos\SiteParser\SiteParser\obj\Debug\SiteParser.pdb
